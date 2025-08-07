@@ -2,6 +2,9 @@
 
 A simple Infrastructure as Code project that uses Terraform to build and deploy a Docker containerized website.
 
+<img width="1902" height="957" alt="image" src="https://github.com/user-attachments/assets/4066661b-1380-493f-8ab4-a0dbd99de8a2" />
+
+
 ## Project Structure
 
 ```
